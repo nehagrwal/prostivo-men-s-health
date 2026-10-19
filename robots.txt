@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/prostivo-men-s-health/sitemap.xml
+Sitemap: https://prostivo-men-s-health.vercel.app/sitemap-vercel.xml
+Sitemap: https://prostivo-men-s-health.pages.dev/sitemap-cloudflare.xml
